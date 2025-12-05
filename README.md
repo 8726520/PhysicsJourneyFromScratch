@@ -223,7 +223,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 > "Physics is not the exclusive domain of the young or the formally trained. Curiosity is the only prerequisite, and time is the greatest teacher. At 60, I begin a journey most start at 16. The destination matters less than the path, and every question asked is a victory over complacency."
 
-> “物理学不是年轻人或科班出身者的专属领域。好奇心是唯一的先决条件，时间是最伟大的老师。60岁，我开始了一段多数人16岁开始的旅程。目的地不如路径重要，每一个被提出的问题都是对自满的胜利。”
+> “物理学不是年轻人或科班出身者的专属领域。好奇心是唯一的先决条件，时间是最伟大的老师。54岁，我开始了一段多数人16岁开始的旅程。目的地不如路径重要，每一个被提出的问题都是对自满的胜利。”
 
 *Start Date: 2025年12月5日*  
-*Last Updated: {{当前日期}}*
+*Last Updated: {{2025年12月5日当前日期}}*
