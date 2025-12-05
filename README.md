@@ -29,11 +29,11 @@ All notes, data, and mistakes are public for discussion and improvement.
 
 | Year 年份 | Focus 重点 | Status 状态 |
 |-----------|------------|-------------|
-| **2024-2025** | Foundations: Measurement, Time, Space, Mechanics | 🟢 In Progress 进行中 |
-| 2025-2026 | Electromagnetism and Fields | ⚪ Planned 计划中 |
-| 2026-2027 | Thermodynamics and Statistical Physics | ⚪ Planned 计划中 |
-| 2027-2028 | Quantum Concepts and Relativity | ⚪ Planned 计划中 |
-| 2028-2029 | Integration and Original Exploration | ⚪ Planned 计划中 |
+| **2026-2027** | Foundations: Measurement, Time, Space, Mechanics | 🟢 In Progress 进行中 |
+| 2027-2028 | Electromagnetism and Fields | ⚪ Planned 计划中 |
+| 2028-2029 | Thermodynamics and Statistical Physics | ⚪ Planned 计划中 |
+| 2029-2030 | Quantum Concepts and Relativity | ⚪ Planned 计划中 |
+| 2030-2031 | Integration and Original Exploration | ⚪ Planned 计划中 |
 
 ## Current Focus | 当前重点
 
