@@ -1,0 +1,138 @@
+gitignore
+# ============================================
+# PhysicsJourneyFromScratch 专用 .gitignore
+# 作者：RetiredPhysicsExplorer
+# ============================================
+
+# --------------------------
+# 操作系统生成的文件
+# --------------------------
+.DS_Store            # macOS 桌面服务存储
+Thumbs.db            # Windows 缩略图缓存
+desktop.ini          # Windows 文件夹设置
+*.lnk                # Windows 快捷方式
+
+# --------------------------
+# 编辑器/IDE 文件
+# --------------------------
+# Visual Studio Code
+.vscode/
+*.code-workspace
+
+# PyCharm/IntelliJ IDEA
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Vim/Neovim
+*.swp
+*.swo
+*~
+
+# --------------------------
+# Python 相关
+# --------------------------
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# --------------------------
+# 实验数据文件（大文件）
+# --------------------------
+# 建议使用 Git LFS 管理这些文件
+*.mp4               # 实验视频
+*.mov
+*.avi
+*.wav               # 音频记录
+*.mp3
+*.zip               # 打包文件
+*.rar
+*.7z
+
+# --------------------------
+# 个人学习记录（可选排除）
+# --------------------------
+personal_notes/     # 个人笔记文件夹
+drafts/             # 草稿文件
+backup/             # 备份文件
+
+# --------------------------
+# 环境配置和密钥
+# --------------------------
+.env                # 环境变量文件
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+*.key               # 密钥文件
+*.pem
+*.crt
+
+# --------------------------
+# 日志文件
+# --------------------------
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+
+# --------------------------
+# 运行时数据
+# --------------------------
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# --------------------------
+# 覆盖测试输出
+# --------------------------
+coverage/
+.nyc_output
+
+# --------------------------
+# 依赖目录
+# --------------------------
+node_modules/
+jspm_packages/
+
+# --------------------------
+# 可选：临时排除部分实验数据
+# --------------------------
+# raw_data/           # 原始测量数据（如果很大）
+# temp/              # 临时文件
+# *.tmp
+# *.temp
+
+# --------------------------
+# 特定工具生成的文件
+# --------------------------
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# MkDocs
+site/
+
+# 本项目的特定排除
+# 如果你有一些不想提交的文件，在这里添加
+# my_private_data.csv
+# experiment_videos/raw/
