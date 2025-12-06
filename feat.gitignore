@@ -1,4 +1,4 @@
-feat.gitignore
+.gitignore
 ============================================
 PhysicsJourneyFromScratch 专用 .gitignore
 作者：RetiredPhysicsExplorer
@@ -20,13 +20,13 @@ desktop.ini          # Windows 文件夹设置
 .vscode/
 *.code-workspace
 
-# PyCharm/IntelliJ IDEA
+PyCharm/IntelliJ IDEA
 .idea/
 *.iml
 *.ipr
 *.iws
 
-# Vim/Neovim
+ Vim/Neovim
 *.swp
 *.swo
 *~
@@ -71,9 +71,9 @@ wheels/
 # --------------------------
 # 个人学习记录（可选排除）
 # --------------------------
-personal_notes/     # 个人笔记文件夹
-drafts/             # 草稿文件
-backup/             # 备份文件
+personal_notes/     个人笔记文件夹
+drafts/             草稿文件
+backup/             备份文件
 
 # --------------------------
 # 环境配置和密钥
