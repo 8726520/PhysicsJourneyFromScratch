@@ -4,18 +4,19 @@ PhysicsJourneyFromScratch 专用 .gitignore
 作者：RetiredPhysicsExplorer
 ============================================
 
-# --------------------------
-# 操作系统生成的文件
-# --------------------------
+--------------------------
+#操作系统生成的文件
+--------------------------
+
 .DS_Store            # macOS 桌面服务存储
 Thumbs.db            # Windows 缩略图缓存
 desktop.ini          # Windows 文件夹设置
 *.lnk                # Windows 快捷方式
 
-# --------------------------
-# 编辑器/IDE 文件
-# --------------------------
-# Visual Studio Code
+--------------------------
+ 编辑器/IDE 文件
+--------------------------
+#Visual Studio Code
 .vscode/
 *.code-workspace
 
