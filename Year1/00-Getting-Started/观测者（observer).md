@@ -24,3 +24,24 @@ Quality Control and Inspection: Monitor whether products meet standards during t
 Daily Life: Meet daily quantitative needs (e.g., weighing, timing, measuring body temperature, displaying vehicle speed and fuel consumption on car dashboards).
 Commercial Trade: Lay the foundation for fair transactions (e.g., electronic scales in markets, electricity meters, water meters).
 Medical Diagnosis: Provide key physiological parameters (e.g., blood pressure, heart rate, blood component analysis).
+
+
+为了全球统一，采用国际单位制作为测量标准的基础。它规定了七个基本物理量的单位：
+
+For the sake of global unification, the International System of Units is adopted as the basis of measurement standards. It specifies units for seven basic physical quant
+
+基本物理量      / 	单位名称	    /  单位符号
+
+长度	        /      米     /      	m
+
+质量	    /         千克         	kg
+
+时间	   /           秒      /    	s
+
+电流	    /         安培    /     	A
+
+热力学温度	   /     开尔文	    /    K
+
+物质的量	    /       摩尔        / 	mol
+
+发光强度     /    	坎德拉        /	cd
